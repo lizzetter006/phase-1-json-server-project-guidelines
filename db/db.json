@@ -1,228 +1,220 @@
 {
-  "books": [
-    {
-      "id": 1,
-      "title": "The Hunger Games",
-      "author": "Suzanne Collins",
-      "genre": "Dystopian",
-      "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/61JfGcL2ljL.jpg",
-      "publishingDate": "2008"
-    },
-    {
-      "id": 2,
-      "title": "Orleans",
-      "author": "Sherri L. Smith",
-      "genre": "Dystopian",
-      "coverPhoto": "https://images2.penguinrandomhouse.com/cover/9780147509963",
-      "publishingDate": "2014"
-    },
-    {
-      "id": 3,
-      "title": "The Giver",
-      "author": "Lois Lowry",
-      "genre": "Dystopian",
-      "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/91zN-M-upML.jpg",
-      "publishingDate": "1993"
-    },
-    {
-      "id": 4,
-      "title": "Pride and Prejudice",
-      "author": "Jane Austen",
-      "genre": "Romance",
-      "coverPhoto": "https://prodimage.images-bn.com/pimages/9781435160514_p0_v1_s550x406.jpg",
-      "publishingDate": "1813"
-    },
-    {
-      "id": 5,
-      "title": "The Notebook",
-      "author": "Nicholas Sparks",
-      "genre": "Romance",
-      "coverPhoto": "https://i.ebayimg.com/images/g/ho0AAOSwq7tgAFo8/s-l500.jpg",
-      "publishingDate": "2000"
-    },
-    {
-      "id": 6,
-      "title": "Red, White, & Royal Blue",
-      "author": "Casey McQuiston",
-      "genre": "Romance",
-      "coverPhoto": "https://m.media-amazon.com/images/I/41hv25yqOCL.jpg",
-      "publishingDate": "2019"
-    },
-    {
-      "id": 7,
-      "title": "Harry Potter and the Sorcerer's Stone",
-      "author": "J. K. Rowling",
-      "genre": "Fantasy",
-      "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/81iqZ2HHD-L.jpg",
-      "publishingDate": "1997"
-    },
-    {
-      "id": 8,
-      "title": "A Game of Thrones",
-      "author": "George R. R. Martin",
-      "genre": "Fantasy",
-      "coverPhoto": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496.jpg",
-      "publishingDate": "1996"
-    },
-    {
-      "id": 9,
-      "title": "The Fellowship of the Ring",
-      "author": "J. R. R. Tolkien",
-      "genre": "Fantasy",
-      "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/81y6vNgQTgL.jpg",
-      "publishingDate": "1954"
-    },
-    {
-      "id": 10,
-      "title": "The Haunting of Hill House",
-      "author": "Shirley Jackson",
-      "genre": "Horror",
-      "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/51Otp57vz+L._SX322_BO1,204,203,200_.jpg",
-      "publishingDate": "1959"
-    },
-    {
-      "id": 11,
-      "title": "It",
-      "author": "Stephen King",
-      "genre": "Horror",
-      "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/71lZgzNE2kL.jpg",
-      "publishingDate": "1987"
-    },
-    {
-      "id": 12,
-      "title": "Dracula",
-      "author": "Bram Stoker",
-      "genre": "Horror",
-      "coverPhoto": "https://d28hgpri8am2if.cloudfront.net/book_images/cvr9780743477369_9780743477369_hr.jpg",
-      "publishingDate": "1897"
-    },
-    {
-      "id": 13,
-      "title": "A Study in Scarlet",
-      "author": "Arthur Conan Doyle",
-      "genre": "Mystery",
-      "coverPhoto": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/2419/9780241952894.jpg",
-      "publishingDate": "1887"
-    },
-    {
-      "id": 14,
-      "title": "And Then There Were None",
-      "author": "Agatha Christie",
-      "genre": "Mystery",
-      "coverPhoto": "https://m.media-amazon.com/images/I/41l02vDN4pL.jpg",
-      "publishingDate": "1939"
-    },
-    {
-      "id": 15,
-      "title": "The DaVinci Code",
-      "author": "Dan Brown",
-      "genre": "Mystery",
-      "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/91Q5dCjc2KL.jpg",
-      "publishingDate": "2003"
-    },
-    {
-      "id": 16,
-      "title": "The Devil in the White City",
-      "author": "Erik Larson",
-      "genre": "Nonfiction",
-      "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/91nh+RL7nPL.jpg",
-      "publishingDate": "2003"
-    },
-    {
-      "id": 17,
-      "title": "The Diary of a Young Girl",
-      "author": "Anne Frank",
-      "genre": "Nonfiction",
-      "coverPhoto": "https://images.penguinrandomhouse.com/cover/9780553586381",
-      "publishingDate": "1947"
-    },
-    {
-      "id": 18,
-      "title": "Becoming",
-      "author": "Michelle Obama",
-      "genre": "Nonfiction",
-      "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/81h2gWPTYJL.jpg",
-      "publishingDate": "2018"
-    },
-    {
-      "id": 19,
-      "title": "Howl and Other Poems",
-      "author": "Allen Ginsberg",
-      "genre": "Poetry",
-      "coverPhoto": "https://m.media-amazon.com/images/I/41+qKn9V+YL.jpg",
-      "publishingDate": "1956"
-    },
-    {
-      "id": 20,
-      "title": "Paradise Lost",
-      "author": "John Milton",
-      "genre": "Poetry",
-      "coverPhoto": "https://prodimage.images-bn.com/pimages/9781593080952_p0_v4_s550x406.jpg",
-      "publishingDate": "1667"
-    },
-    {
-      "id": 21,
-      "title": "Milk and Honey",
-      "author": "Rupi Kaur",
-      "genre": "Poetry",
-      "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/71Eq55V2AvL.jpg",
-      "publishingDate": "2014"
-    },
-    {
-      "id": 22,
-      "title": "The Fault in Our Stars",
-      "author": "John Green",
-      "genre": "Young Adult",
-      "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/51ED6WxFy8L._SX335_BO1,204,203,200_.jpg",
-      "publishingDate": "2012"
-    },
-    {
-      "id": 23,
-      "title": "Twilight",
-      "author": "Stephenie Meyer",
-      "genre": "Young Adult",
-      "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/1/1d/Twilightbook.jpg",
-      "publishingDate": "2005"
-    },
-    {
-      "id": 24,
-      "title": "The Hate U Give",
-      "author": "Angie Thomas",
-      "genre": "Young Adult",
-      "coverPhoto": "https://m.media-amazon.com/images/I/41A2UunZ0aL.jpg",
-      "publishingDate": "2017"
-    },
-    {
-      "id": 25,
-      "title": "How to Win Friends and Influence People",
-      "author": "Dale Carnegie",
-      "genre": "Self Help",
-      "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/51X7dEUFgoL._AC_SY780_.jpg",
-      "publishingDate": "1936"
-    },
-    {
-      "id": 26,
-      "title": "Atomic Habits",
-      "author": "James Clear",
-      "genre": "Self Help",
-      "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/51PujYOdzLL._SX329_BO1,204,203,200_.jpg",
-      "publishingDate": "2018"
-    },
-    {
-      "id": 27,
-      "title": "The Life-Changing Magic of Tidying Up",
-      "author": "Marie Kondo",
-      "genre": "Self Help",
-      "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/91Jh-PEp1OL.jpg",
-      "publishingDate": "2011"
-    },
-    {
-      "title": "Catching Fire",
-      "author": "Suzanne Collins",
-      "genre": "Dystopian",
-      "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/61VUik8NJ8L.jpg",
-      "publishingDate": "2009",
-      "id": 28
-    }
+    "books": [
+      {
+        "id": 1,
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "genre": "Dystopian",
+        "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/61JfGcL2ljL.jpg",
+        "publishingDate": "2008"
+      },
+      {
+        "id": 2,
+        "title": "Orleans",
+        "author": "Sherri L. Smith",
+        "genre": "Dystopian",
+        "coverPhoto": "https://images2.penguinrandomhouse.com/cover/9780147509963",
+        "publishingDate": "2014"
+      },
+      {
+        "id": 3,
+        "title":"The Giver",
+        "author":"Lois Lowry",
+        "genre": "Dystopian",
+        "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/91zN-M-upML.jpg",
+        "publishingDate": "1993"
+      },
+      {
+        "id": 4,
+        "title":"Pride and Prejudice",
+        "author":"Jane Austen",
+        "genre": "Romance",
+        "coverPhoto": "https://prodimage.images-bn.com/pimages/9781435160514_p0_v1_s550x406.jpg",
+        "publishingDate": "1813"
+      },
+      {
+        "id": 5,
+        "title":"The Notebook",
+        "author":"Nicholas Sparks",
+        "genre": "Romance",
+        "coverPhoto": "https://i.ebayimg.com/images/g/ho0AAOSwq7tgAFo8/s-l500.jpg",
+        "publishingDate": "2000"
+      },
+      {
+        "id": 6,
+        "title":"Red, White, & Royal Blue",
+        "author":"Casey McQuiston",
+        "genre": "Romance",
+        "coverPhoto": "https://m.media-amazon.com/images/I/41hv25yqOCL.jpg",
+        "publishingDate": "2019"
+      },
+      {
+        "id": 7,
+        "title":"Harry Potter and the Sorcerer's Stone",
+        "author":"J. K. Rowling",
+        "genre": "Fantasy",
+        "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/81iqZ2HHD-L.jpg",
+        "publishingDate": "1997"
+      },
+      {
+        "id": 8,
+        "title":"A Game of Thrones",
+        "author":"George R. R. Martin",
+        "genre": "Fantasy",
+        "coverPhoto": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496.jpg",
+        "publishingDate": "1996"
+      },
+      {
+        "id": 9,
+        "title":"The Fellowship of the Ring",
+        "author":"J. R. R. Tolkien",
+        "genre": "Fantasy",
+        "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/81y6vNgQTgL.jpg",
+        "publishingDate": "1954"
+      },
+      {
+        "id": 10,
+        "title":"The Haunting of Hill House",
+        "author":"Shirley Jackson",
+        "genre": "Horror",
+        "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/51Otp57vz+L._SX322_BO1,204,203,200_.jpg",
+        "publishingDate": "1959"
+      },
+      {
+        "id": 11,
+        "title":"It",
+        "author":"Stephen King",
+        "genre": "Horror",
+        "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/71lZgzNE2kL.jpg",
+        "publishingDate": "1987"
+      },
+      {
+        "id": 12,
+        "title":"Dracula",
+        "author":"Bram Stoker",
+        "genre": "Horror",
+        "coverPhoto": "https://d28hgpri8am2if.cloudfront.net/book_images/cvr9780743477369_9780743477369_hr.jpg",
+        "publishingDate": "1897"
+      },
+      {
+        "id": 13,
+        "title":"A Study in Scarlet",
+        "author":"Arthur Conan Doyle",
+        "genre": "Mystery",
+        "coverPhoto": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/2419/9780241952894.jpg",
+        "publishingDate": "1887"
+      },
+      {
+        "id": 14,
+        "title":"And Then There Were None",
+        "author":"Agatha Christie",
+        "genre": "Mystery",
+        "coverPhoto": "https://m.media-amazon.com/images/I/41l02vDN4pL.jpg",
+        "publishingDate": "1939"
+      },
+      {
+        "id": 15,
+        "title":"The DaVinci Code",
+        "author":"Dan Brown",
+        "genre": "Mystery",
+        "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/91Q5dCjc2KL.jpg",
+        "publishingDate": "2003"
+      },
+      {
+        "id": 16,
+        "title":"The Devil in the White City",
+        "author":"Erik Larson",
+        "genre": "Nonfiction",
+        "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/91nh+RL7nPL.jpg",
+        "publishingDate": "2003"
+      },
+      {
+        "id": 17,
+        "title":"The Diary of a Young Girl",
+        "author":"Anne Frank",
+        "genre": "Nonfiction",
+        "coverPhoto": "https://images.penguinrandomhouse.com/cover/9780553586381",
+        "publishingDate": "1947"
+      },
+      {
+        "id": 18,
+        "title":"Becoming",
+        "author":"Michelle Obama",
+        "genre": "Nonfiction",
+        "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/81h2gWPTYJL.jpg",
+        "publishingDate": "2018"
+      },
+      {
+        "id": 19,
+        "title":"Howl and Other Poems",
+        "author":"Allen Ginsberg",
+        "genre": "Poetry",
+        "coverPhoto": "https://m.media-amazon.com/images/I/41+qKn9V+YL.jpg",
+        "publishingDate": "1956"
+      },
+      {
+        "id": 20,
+        "title":"Paradise Lost",
+        "author":"John Milton",
+        "genre": "Poetry",
+        "coverPhoto": "https://prodimage.images-bn.com/pimages/9781593080952_p0_v4_s550x406.jpg",
+        "publishingDate": "1667"
+      },
+      {
+        "id": 21,
+        "title":"Milk and Honey",
+        "author":"Rupi Kaur",
+        "genre": "Poetry",
+        "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/71Eq55V2AvL.jpg",
+        "publishingDate": "2014"
+      },
+      {
+        "id": 22,
+        "title":"The Fault in Our Stars",
+        "author":"John Green",
+        "genre": "Young Adult",
+        "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/51ED6WxFy8L._SX335_BO1,204,203,200_.jpg",
+        "publishingDate": "2012"
+      },
+      {
+        "id": 23,
+        "title":"Twilight",
+        "author":"Stephenie Meyer",
+        "genre": "Young Adult",
+        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/1/1d/Twilightbook.jpg",
+        "publishingDate": "2005"
+      },
+      {
+        "id": 24,
+        "title":"The Hate U Give",
+        "author":"Angie Thomas",
+        "genre": "Young Adult",
+        "coverPhoto": "https://m.media-amazon.com/images/I/41A2UunZ0aL.jpg",
+        "publishingDate": "2017"
+      },
+      {
+        "id": 25,
+        "title":"How to Win Friends and Influence People",
+        "author":"Dale Carnegie",
+        "genre": "Self Help",
+        "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/51X7dEUFgoL._AC_SY780_.jpg",
+        "publishingDate": "1936"
+      },
+      {
+        "id": 26,
+        "title":"Atomic Habits",
+        "author":"James Clear",
+        "genre": "Self Help",
+        "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/51PujYOdzLL._SX329_BO1,204,203,200_.jpg",
+        "publishingDate": "2018"
+      },
+      {
+        "id": 27,
+        "title":"The Life-Changing Magic of Tidying Up",
+        "author":"Marie Kondo",
+        "genre": "Self Help",
+        "coverPhoto": "https://images-na.ssl-images-amazon.com/images/I/91Jh-PEp1OL.jpg",
+        "publishingDate": "2011"
+      }
   ]
 }
